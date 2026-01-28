@@ -7,6 +7,7 @@ function subtract(x,y){
     return x-y
 }
 function multiply(a,b){
+    if(a<0) throw new Error("num greater than 0 only allowed")
     return a*b
 }
 
