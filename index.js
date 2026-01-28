@@ -13,3 +13,4 @@ function multiply(a,b){
 add(2,3)
 git(6,44)
 subtract(3,4)
+multiply(6,3)
